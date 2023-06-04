@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 </details>
 
 <p align="center">
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/demamano">
     <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
   </a>
 </p>
