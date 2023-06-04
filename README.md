@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/demamano)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/demamano)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/demamano)
-[![Dart](https://img.shields.io/badge/clojure-black?style=for-the-badge&logo=clojure)](https://github.com/demamano)
+[![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=clojure)](https://github.com/demamano)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/demamano)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/demamano)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/demamano)
