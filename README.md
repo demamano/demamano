@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <a https://www.linkedin.com/in/dema-amano-5a7389228/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://www.kaggle.com/demamano">
+    <a href="https://www.kaggle.com/demaamano">
         <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
     </a>
     <a href="https://stepik.org/users/108517510">
