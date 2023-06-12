@@ -1,6 +1,8 @@
 <h1 align="center">Hi, guys! <img src="assets/demaamano.png" width="128px" alt="👋"></h1>
 
+# Hi, I'm Rivaan Ranawat! 👋
 
+![Rivaan's github stats](https://github-readme-stats.vercel.app/api?username=rivaanranawat&show_icons=true&theme=react)
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Dema.<br>
