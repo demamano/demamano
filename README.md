@@ -7,7 +7,7 @@
        Embarking on the exciting journey of mastering Machine Learning and Deep Learning.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
-    ![Dema's github stats](https://github-readme-stats.vercel.app/api?username=demamano&show_icons=true&theme=react)
+    
 <p align="center">
     <a https://www.linkedin.com/in/dema-amano-5a7389228/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
