@@ -1,16 +1,18 @@
-<h1 align="center">Hi, guys! <img src="assets/demaamano.png" width="128px" alt="👋"></h1>
+<h1 align="center"> <img src="assets/demaamano.png" width="128px" alt="👋"></h1>
 
-# Hi, I'm Rivaan Ranawat! 👋
-
-![Rivaan's github stats](https://github-readme-stats.vercel.app/api?username=rivaanranawat&show_icons=true&theme=react)
-    <b>Welcome to my page!</b><br><br>
+# Hi, I'm Dema Amano! 👋
+ 
+ <h4 margin-bottom:2px>Welcome to my page!<h4/>
     <i>
-        I'm Dema.<br>
+       <br>
        Embarking on the exciting journey of mastering Machine Learning and Deep Learning.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
+
+![Dema's github stats](https://github-readme-stats.vercel.app/api?username=demamano&show_icons=true&theme=react)
+   
     
-<p align="center">
+<p margin-left:20px>
     <a https://www.linkedin.com/in/dema-amano-5a7389228/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
