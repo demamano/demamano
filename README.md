@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="assets/demaamano.png" width="128px" alt="👋"></h1>
+<!-- <h1 align="start"> <img src="assets/demaamano.png" width="550px" height="150px" alt="👋"></h1> -->
 
 # Hi, I'm Dema Amano! 👋
  
