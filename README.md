@@ -1,4 +1,4 @@
-<h1 align="center">Hi, guys! <img src="assets/demaamano.png" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, guys! <img src="assets/demaamano.png" width="128px" alt="👋"></h1>
 
 
     <b>Welcome to my page!</b><br><br>
