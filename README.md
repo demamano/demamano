@@ -1,5 +1,9 @@
 <h1 align="center">Hi, guys! <img src="https://github.com/demamano/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EvanLi&show_icons=true&theme=radical&hide=prs,issues,contribs)
 
+![GitHub followers](https://img.shields.io/github/followers/demamano?color=red) ![](https://demamano.com/ghpvc/?username=demamano&color=blue&label=Profile+Views)
+
+*Supported by [GitHub Readme Stats](https://github.com/demamano/github-readme-stats) , [GitHub Profile Views Counter](https://github.com/demamano/github-profile-views-counter) and [Shields.io](https://github.com/badges/shields).*
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
