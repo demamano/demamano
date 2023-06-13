@@ -52,7 +52,7 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/demamano)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/demamano)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/demamano)
-[![Flutter](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=flutter)](https://flutter.dev/)
+[![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://flutter.dev/)
 
 
 ### OS
