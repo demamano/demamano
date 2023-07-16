@@ -86,7 +86,7 @@
 
 <p align="center">
   <a href="https://github.com/demamano">
-    <img src="https://komarev.com/ghpvc/?username=demamanod&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=demamano&color=blue&style=flat)" />
   </a>
 </p>
 
