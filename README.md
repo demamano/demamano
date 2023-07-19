@@ -5,7 +5,7 @@
  <h4 margin-bottom:2px>Welcome to my page!<h4/>
     <i>
        <br>
-       As a skilled CS student, I have honed my expertise in Flutter, MERN Stack, and Python, enabling me to craft stunning mobile apps for both iOS and Android platforms. Fueled by my passion for technology, I am now embarking on an exciting journey to master the fascinating fields of Machine Learning and Deep Learning. I am eagerly open to collaborating on captivating and innovative projects that push the boundaries of what's possible.<br>
+       As a skilled CS graduate, I have honed my expertise in Flutter, MERN Stack, and Python, enabling me to craft stunning mobile apps for both iOS and Android platforms. Fueled by my passion for technology, I am now embarking on an exciting journey to master the fascinating fields of Machine Learning and Deep Learning. I am eagerly open to collaborating on captivating and innovative projects that push the boundaries of what's possible.<br>
     </i><br>
 
 
