@@ -1,19 +1,23 @@
 <!-- <h1 align="start"> <img src="assets/demaamano.png" width="550px" height="150px" alt="👋"></h1> -->
 
 # Hi, I'm Dema Amano! 👋
- 
- <h4 margin-bottom:2px>Welcome to my page!<h4/>
+
+ <h4 margin-bottom:2px>Welcome to my page!</h4>
     <i>
        <br>
        As a skilled CS graduate, I have honed my expertise in Flutter, MERN Stack, and Python, enabling me to craft stunning mobile apps for both iOS and Android platforms. Fueled by my passion for technology, I am now embarking on an exciting journey to master the fascinating fields of Machine Learning and Deep Learning. I am eagerly open to collaborating on captivating and innovative projects that push the boundaries of what's possible.<br>
     </i><br>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=demamano&show_icons=true&locale=en" alt="demamano" /></p>
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=demamano&show_icons=true&locale=en" alt="demamano" />
+<a href="https://github.com/demamano">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=demamano&theme=transparent" />
+  </a>
+</p>
    <h3 align="left">Connect with me:</h3>
-    
+
 <p margin-left:20px>
-    <a https://www.linkedin.com/in/dema-amano-5a7389228/">
+    <a href= "https://www.linkedin.com/in/dema-amano-5a7389228/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://www.kaggle.com/demaamano">
@@ -34,6 +38,7 @@
 </p>
 
 ### Languages
+
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/demamano)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/demamano)
 [![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=openjdk)](https://github.com/demamano)
@@ -45,13 +50,14 @@
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/demamano)
 
 ### ML/DL
+
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/demamano)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/demamano)
 [![MLFlow](https://img.shields.io/badge/mlflow-black?style=for-the-badge&logo=numpy&logoColor=blue)](https://github.com/demamano)
 [![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com/demamano)
 
-
 ### Technologies & Frameworks
+
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/demamano)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/demamano)
 [![NodeJs](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=react)](https://github.com/demamano)
@@ -60,12 +66,11 @@
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/demamano)
 [![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://flutter.dev/)
 
-
 ### OS
+
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/demamano)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/demamano)
 [![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=Windows)](https://github.com/demamano)
-
 
 <details>
 <p align="center">
@@ -79,7 +84,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=demamano&theme=transparent" />
   </a>
 
-   
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=demamano&show_icons=true&locale=en&layout=compact" alt="demamano" /></p>
 </details>
@@ -89,13 +93,3 @@
     <img src="https://komarev.com/ghpvc/?username=demamano&color=blue&style=flat)" />
   </a>
 </p>
-
-
-
-
-
-
-
-
-
-
