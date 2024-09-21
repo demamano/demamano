@@ -8,6 +8,8 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
 [- Currently working on <a href="https://book-commerce-murex.vercel.app/">book commerce</a>]::
  
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
+ 1. [Wabe E-commerce](https://wabe-ecommerce.netlify.app/)
+ 2. [Portifolio Website](https://personal-project-silk.vercel.app/)
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
