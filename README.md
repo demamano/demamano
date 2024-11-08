@@ -22,6 +22,7 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=demamano&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 [![Dema Amano's current streak](https://streak-stats.demolab.com/?user=demamano&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Dema Amano's current streak](https://streak-stats.demolab.com/?user=demamano&count_private=true)](#)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
