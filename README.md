@@ -5,12 +5,20 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
 - You can reach me through: <a href="https://personal-project-silk.vercel.app/" title="Portfolio"><img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a> <a href="demaamano@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://wa.me/2547472379" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/dema-amano-5a7389228"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
 - **NOTE** : You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 
+## Achievements
+
+<div align="center">
+  <a href="https://committers.top/ethiopia_private/demamano">
+    <img src="https://user-badge.committers.top/ethiopia_private/demamano.svg" alt="Top Committer in Ethiopia">
+  </a>
+  <p>Proud to be recognized as a top committer in Ethiopia!</p>
+</div>
+
 [- Currently working on <a href="https://book-commerce-murex.vercel.app/">book commerce</a>]::
  
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
  1. [Wabe E-commerce](https://wabe-ecommerce.netlify.app/)
  2. [Portifolio Website](https://personal-project-silk.vercel.app/)
-
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
@@ -22,6 +30,7 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=demamano&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 [![Dema Amano's current streak](https://streak-stats.demolab.com/?user=demamano&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
